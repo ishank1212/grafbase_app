@@ -3,7 +3,7 @@ import Navbar from "@/components/Navbar";
 import "./globals.css";
 
 export const metadata = {
-  title: "APP",
+  title: "ProCode",
   description: "Showcase and discover developer projects",
 };
 
